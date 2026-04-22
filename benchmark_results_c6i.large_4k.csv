@@ -1,0 +1,5 @@
+instance,video,preset,repeat,status,time_s,fps,cost_usd
+c6i.large,videos/test_4k.mp4,medium,1,success,1045.68,1.72,0.02469
+c6i.large,videos/test_4k.mp4,medium,2,success,702.88,2.56,0.016596
+c6i.large,videos/test_4k.mp4,slow,1,success,1527.37,1.18,0.036063
+c6i.large,videos/test_4k.mp4,slow,2,success,1528.09,1.18,0.03608

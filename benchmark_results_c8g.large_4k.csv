@@ -1,0 +1,5 @@
+instance,video,preset,repeat,status,time_s,fps,cost_usd
+c8g.large,videos/test_4k.mp4,medium,1,success,208.61,1.44,0.00394
+c8g.large,videos/test_4k.mp4,medium,2,success,208.44,1.44,0.003937
+c8g.large,videos/test_4k.mp4,slow,1,success,630.16,0.48,0.011903
+c8g.large,videos/test_4k.mp4,slow,2,success,630.16,0.48,0.011903

@@ -1,0 +1,5 @@
+instance,video,preset,repeat,status,time_s,fps,cost_usd
+c6i.large,videos/test_1080p_60s.mp4,medium,1,success,184.35,9.76,0.004353
+c6i.large,videos/test_1080p_60s.mp4,medium,2,success,184.54,9.75,0.004357
+c6i.large,videos/test_1080p_60s.mp4,slow,1,success,408.56,4.41,0.009647
+c6i.large,videos/test_1080p_60s.mp4,slow,2,success,409.89,4.39,0.009678

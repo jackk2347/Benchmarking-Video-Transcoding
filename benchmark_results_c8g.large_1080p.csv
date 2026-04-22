@@ -1,0 +1,5 @@
+instance,video,preset,repeat,status,time_s,fps,cost_usd
+c8g.large,videos/test_1080p_60s.mp4,medium,1,success,339.18,5.31,0.006407
+c8g.large,videos/test_1080p_60s.mp4,medium,2,success,338.84,5.31,0.0064
+c8g.large,videos/test_1080p_60s.mp4,slow,1,success,1090.21,1.65,0.020593
+c8g.large,videos/test_1080p_60s.mp4,slow,2,success,1090.03,1.65,0.02059
