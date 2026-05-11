@@ -1,4 +1,3 @@
-# CS5296 Cloud Computing Theory & Practice - Project
 ## Benchmarking Video Transcoding Performance: AWS Graviton (ARM64) vs Intel x86
 
 This repository contains the source code, benchmarking scripts, and experimental results for evaluating the cost-performance of video transcoding workloads on AWS cloud infrastructure. The project compares AWS Graviton3 (`c8g.large`, ARM64) against Intel 3rd Gen Xeon (`c6i.large`, x86) using the FFmpeg `libx265` encoder.
